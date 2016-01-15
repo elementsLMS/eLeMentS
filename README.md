@@ -1,6 +1,8 @@
 Class Boilerplate
 =================
 
+[![Join the chat at https://gitter.im/elementsLMS/eLeMentS](https://badges.gitter.im/elementsLMS/eLeMentS.svg)](https://gitter.im/elementsLMS/eLeMentS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/defeo/class-boilerplate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/defeo/class-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
